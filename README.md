@@ -1,6 +1,9 @@
 # DataConversion_ETL
 Mini project demonstrating ETL processes using PostgreSQL.
 
+## Files Included
+In here there are 4 legacy data files, and various scripts in plain text to show all queries that were ran. 
+
 ## EXTRACT
 - To start, I first made up some ficticuous legacy data for customer, product, and order information.
 - Then I created a database in PostgreSQL and ran a few queries to create the tables to import the legacy data.

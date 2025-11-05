@@ -1,0 +1,51 @@
+CustomerID,FirstName,LastName,Email,Phone,Address,City,StateID,ZipCode,SignupDate
+C001,Rachel,Green,rachel.green@example.com,212-555-1111,100 Bedford St,New York,NY,10014,2019-01-02
+C002,Ross,Geller,rossgeller@@mail.com,212.555.2222,90 Bedford St,New York,NY,10014,2019/03/15
+C003,Monica,Geller,monica.g@example.com,,100 Bedford St,New York,NY,10014,2018-11-05
+C004,Chandler,Bing,chandler.bgmail.com,2125554444,200 Mockingbird Ln,New York,NY,10013,2018-04-31
+C005,Joey,Tribbiani,joey.t@example.com,212-555-7777,,New York,NY,10012,2017-05-22
+C006,Phoebe,Buffay,smellycat@music,,11 Village Way,New York,,,2016-09-09
+C007,Gunther,Central,gunther@centralperk.com,212-555-0101,,New York,NY,10009,2020-01-14
+C008,Harry,Potter,hpotter@hogwarts.edu,555-000-1234,4 Privet Dr,Little Whinging,UK,,1998-06-26
+C009,Hermione,Granger,hermione..granger@owlmail.com,555-000-2222,Hampstead Rd,London,,NW32RB,1997-01-01
+C010,Ron,Weasley,weasley@burrow,,,,,???,
+C011,Draco,Malfoy,draco@pureblood.net,555/000/3333,Manor Lane,Wilts,,SP20,2001-04-04
+C012,Luna,Lovegood,luna_lovegood,----,Ottery St Catchpole,,,,2018-12-01
+C013,Neville,Longbottom,neville123@example.com,555-000-7777,3 Greenhouse Way,Hogsmeade,SC?,99999,2019-10-10
+C014,Sirius,Black,sirius@dogmail.com,,12 Grimmauld Pl,London,ZZ,14567,2000-11-05
+C015,Jess,Day,jessday@example.com,310-555-8989,Loft 4D,Los Angeles,CA,90013,2021-04-12
+C016,Nick,Miller,nick@shmessenger,,Loft 4D,LA,CA,90013,2021-05-01
+C017,Schmidt,Schmidt,schmidt@schmidtism.com,310 555 1111,Loft 4D,Los Angeles,CA,90013,2018-07-07
+C018,Winston,Bishop,winston@pranks.com,,Loft 4D,Los Angeles,CA,90013,2018-07-07
+C019,Cece,Parikh,cece@example,310.555.2222,,,,90013,2019-02-03
+C020,Aly,Nelson,aly_nelson@example.com,3105559999,,,CA,,2020-01-20
+C021,Sheldon,Cooper,sheldon.cooper@caltech.edu,626-555-0101,2311 N Los Robles,Pasadena,CA,91101,2016-09-01
+C022,Leonard,Hofstadter,leonard.h@example.com,6265550022,2311 N Los Robles,Pasadena,CA,91101,2017-01-03
+C023,Penny,Hofstadter,penny@acting.com,626-555-3333,,,,,2017-02-15
+C024,Howard,Wolowitz,howie@nasa.gov,(626)555-4444,Altadena Dr,Pasadena,CA,91105,2017-06-18
+C025,Bernadette,Rostenkowski,bernie@pharma.com,626.555.5555,,,,91105,2019-09-01
+C026,Raj,Koothrappali,raj.space,626-555-0000,Arroyo Pkwy,Pasadena,Ca,91105,18-07-2018
+C027,Amy,Fowler,afowler@neuro.com,6265552222,2311NLosRobles,Pasadena,CA,91101,2020-10-10
+C028,Stuart,Bloom,stuart@comics.com,626-555-7890,,Pasadena,,91101,2018-01-01
+C029,Ginny,Weasley,ginnyw@example.com,555-423-1111,,,,75201,2018-10-11
+C030,Ernie,Macmillan,ernie@hogwarts.com,,,,,,2019-03-01
+C031,Winston,Zeddemore,wzedd@gb.com,555-888-2222,,New York,NY,10012,2022-01-01
+C032,Mike,Hannigan,mike@pianoguy.com,212-888-3333,Brooklyn Apt,New York,NY,11201,2020-02-20
+C033,Janice,Litman,janice@ohmygod.net,212-555-8000,,NYC,NY,10001,2017-07-07
+C034,Mike,Wheeler,mike@hawkinsnet,,Hawkins Rd,Hawkins,IN,46001,2019-06-06
+C035,Eleven,None,011@hawkins,5550004444,Hawkins Rd,Hawkins,IN,46001,2019-06-07
+C036,Ceasar,Flickerman,cflick@capitol.tv,,Panem,,,0,2012-01-01
+C037,Katniss,Everdeen,girlonfire@mail,555-777-9999,Victor's Village,12,,0,2014-11-22
+C038,Frodo,Baggins,frodo@shire.me,444-222-1111,Bag End,Hobbiton,,,2003-01-01
+C039,Samwise,Gamgee,sam@taters.net,444.222.1112,Bagshot Row,Hobbiton,,0,2003-01-01
+C040,Gandalf,TheGrey,gandalf@magic,,,Middle Earth,,0,1000-13-01
+C041,Aragorn,Elessar,king@arnor.com,555-ARAGORN,Ranger Rd,Gondor,,,2025-06-06
+C042,Legolas,Greenleaf,legolas@elves.com,444-ELF-BOW,Treeline,Woodland Realm,,0,2020-03-03
+C043,Gimli,SonOfGloin,gimli@axe.org,888-AXE-MAN,Mountain Rd,Ered Luin,,22222,2019-09-09
+C044,Buffy,Summers,buffy@slay.com,555-555-SLAY,,Sunnydale,CA,91345,2002-12-12
+C045,Will,Smith,willsmith@fresh.com,555-555-PRINCE,Bel Air Dr,Los Angeles,CA,90210,1995-09-10
+C046,Michael,Scott,michael.s@dundermifflin.com,570-111-2222,1725 Slough Ave,Scranton,PA,18503,2005-03-24
+C047,Dwight,Schrute,dschrute@beets.biz,570-222-3333,Schrute Farms,Scranton,PA,18503,2005-03-25
+C048,Jim,Halpert,jhalpert@gmail.com,570-333-4444,,Scranton,PA,18503,2005-04-01
+C049,Pam,Beesly,pam.beesly@art,570-444-5555,Art Ln,Scranton,PA,18503,2006-02-10
+C050,Creed,Bratton,???,,Unknown,Somewhere,,,?

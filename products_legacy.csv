@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price,StockQty
+P001,Electricity Plan A,Energy,$120.50,Yes
+P002,Water Supply Basic,Water,45.0,No
+P003,Internet SuperFast,Broadband,89.99,Y
+P004,Gas Extra,Energy,,- 
+P005,Premium Electricity,energy,$200.00,Yes
+P006,Water Deluxe,Water,55,YeS
+P007,Broadband Ultimate,Broadband,109.99,No
+P008,Electricity Plan B,Energy,110.00,Y
+P009,Water Standard,Water,,Yes
+P010,Internet Basic,Broadband,79.99,N
+P011,Electricity Economy,Energy,95.5,Y
+P012,Water Ultra,Water,60.00,Yes
+P013,Broadband Lite,Broadband,70,Y
+P014,Electricity Max,Energy,abc,Yes
+P015,Water Mega,Water,75.00,N
+P016,Internet Fiber,Broadband,120.0,Y
+P017,Gas Economy,Energy,90,N
+P018,Water Eco,Water,50,Yes
+P019,Broadband Express,Broadband,85,Y
+P020,Electricity Super,Energy,$130.00,No
